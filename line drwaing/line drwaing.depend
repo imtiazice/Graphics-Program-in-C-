@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513262782 source:c:\users\rosi\desktop\line drwaing\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<math.h>
+	<dos.h>
+
